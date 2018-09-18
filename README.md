@@ -1,2 +1,2 @@
-# sel-drv-conx-bvrowser
-Selenium Driver Connection for Browsers (Java(
+# sel-drv-conx-browser
+Selenium Driver Connection for Browsers (Java)
