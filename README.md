@@ -7,6 +7,7 @@ Selenium Driver Connection for Browsers (Java)
 - binaries for browsers you wish to test
 - driver for browsers you wish to test
 
+## Usage Basics
 
 Change the name of the browser in the method: `setBrowser()`.  Valid options are:
 
